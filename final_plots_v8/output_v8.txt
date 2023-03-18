@@ -1,0 +1,43 @@
+s = 0.74[A] or = 1.4[unitless]
+a = 0.44[A] or = 0.84[unitless]
+P_A = 51% at step = 1.33
+Metropolis steps = 244823 at beta = 0.2
+Metropolis steps = 241760 at beta = 0.3
+Metropolis steps = 238896 at beta = 0.4
+Metropolis steps = 237306 at beta = 0.5
+Metropolis steps = 236204 at beta = 0.6
+Metropolis steps = 234959 at beta = 0.7
+Metropolis steps = 234438 at beta = 0.8
+Metropolis steps = 233742 at beta = 0.9
+Metropolis steps = 232870 at beta = 1.0
+Metropolis steps = 232904 at beta = 1.1
+Metropolis steps = 233086 at beta = 1.2
+Metropolis steps = 232563 at beta = 1.3
+Metropolis steps = 232025 at beta = 1.4
+Metropolis steps = 232346 at beta = 1.5
+Metropolis steps = 231063 at beta = 1.6
+Metropolis steps = 231547 at beta = 1.7
+Metropolis steps = 231423 at beta = 1.8
+Metropolis steps = 230421 at beta = 1.9
+Metropolis steps = 231134 at beta = 2.0
+################# Varying Beta ###################
+alpha = 2.0
+beta at minimum = 0.7
+Minimum energy E0 = -31.34678[eV] +/- 0.00368
+Binding energy = 4.14678
+
+Metropolis steps = 230457 at beta = 0.7
+Metropolis steps = 231980 at beta = 0.7
+Metropolis steps = 234266 at beta = 0.7
+Metropolis steps = 234086 at beta = 0.7
+Metropolis steps = 235592 at beta = 0.7
+Metropolis steps = 235666 at beta = 0.7
+Metropolis steps = 237138 at beta = 0.7
+Metropolis steps = 237146 at beta = 0.7
+Metropolis steps = 237504 at beta = 0.7
+Metropolis steps = 237811 at beta = 0.7
+################# Varying s ###################
+s at minimum E = 0.7935000000000001[Ang] and 1.5[unitless]
+Minimum energy E0 with varrying s = -31.30827[eV] +/- 0.0036
+ground_state_energy_step_1.33_b_0.7.png
+computing time = 442.00270891189575
