@@ -1,1 +1,3 @@
-# hy_mol
+# Ground-State Energy of Hydrogen Molecule using Variational Quantum Monte Carlo method
+
+A system of 2 electrons orbitting in the electric field of 2 protons, whicha re fixed in space and separated by distance s. I calculate the lowest energy of 2 electrons (ground-state) by generating a set of trial configuration using random number generators and applying Metropolis technique to accept or reject certain trials. The program uses variational quantum monte carlo method to solve for the ground state energy by varrying different parameters in the wave function. Further numerical algorithms and methods are applied to remove correlation of random numbers.
